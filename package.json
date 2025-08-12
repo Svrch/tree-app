@@ -11,7 +11,9 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^8.38.0",
     "ag-grid-enterprise": "^34.1.1",
+    "ag-grid-vue3": "^34.1.1",
     "jiti": "^2.5.1",
+    "vitest": "^3.2.4",
     "vue": "^3.5.17"
   },
   "devDependencies": {
