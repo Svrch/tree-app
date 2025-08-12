@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from '../components/HelloWorld.vue'
+import TreeGrid from '../components/TreeGrid.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <TreeGrid />
 </template>
 
 <style lang="scss">
